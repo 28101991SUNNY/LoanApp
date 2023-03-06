@@ -8,7 +8,7 @@ import warnings
 
 
 st.write("""
-    # Credit Line Extension Classification App:
+    # Predict If the loan Applicant will default:
 """)
 
 
