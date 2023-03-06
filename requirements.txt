@@ -4,4 +4,3 @@ scikit-learn
 sklearn
 Streamlit
 Flask
-warnings
